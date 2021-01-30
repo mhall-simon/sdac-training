@@ -12,6 +12,12 @@ For the training, we're all going to use Google Colab! If you cannot access Goog
 
 1. Go to Google Colab in Your Browser (Chrome Recommended): colab.research.google.com
 
-2. On launch screen, navigate to tab **GitHub**, then paste following link for training notebook: [INSERT LINK]
+2. On launch screen, navigate to tab **GitHub**, then enter my username *mhall-simon* into the search bar.
 
-If You Don't See The Screen Below, Go To *File > Open Notebook*
+If you don't see the launch screen, go to *file > open notebook*
+
+3. Select the repository *mhall-simon/sdac-training* from the dropdown that appears, and leave the branch at *main*
+
+4. To make sure everything is working before training, select the notebook at *notebooks/sample.ipynb* and open it.
+
+5. Run the code cell by pushing the play button to make sure everything works! If you're on Colab, it should!!
