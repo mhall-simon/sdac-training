@@ -32,6 +32,20 @@ If the above methods don't work, you'll have to download the materials and eithe
 
 #### Downloading Files From GitHub
 
-1. Click on the folder *notebooks* above this README file.
+1. Scroll up to the top of this page
 
-2. In the top right corner, click on the download icon and download files as a zip.
+2. In the top right corner, click on the green download icon and download repository as a zip.
+
+### Installation Alternate: Anaconda & Jupyter Notebook on Your Personal Computer
+
+**Only do this if you're behind a firewall! I'm trying to use Google Colab so we are all working in the same environment.**
+
+There's far too many variables to put one concise direction set together, so you'll have to do the following:
+
+1. Install Anaconda [Here](https://docs.anaconda.com/anaconda/install/)
+
+2. Check Out Their Quick Start Guide [Here](https://docs.anaconda.com/anaconda/user-guide/)
+
+3. Read How To Open Jupyter Notebook [Here](https://docs.anaconda.com/anaconda/user-guide/getting-started/#run-python-in-a-jupyter-notebook)
+
+4. In the Jupyter Notebook interface, navigate to where you saved the notebooks, and open it!
