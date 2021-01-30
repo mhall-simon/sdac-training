@@ -8,6 +8,8 @@ Currently, you're looking at a GitHub repository! Don't worry if you don't under
 
 Before that, there's 2 learning methods that you might want to try out for the training:
 
+---
+
 ### Learning Methods
 
 1. Sit Back & Watch, Trying to Absorb Content Being Covered (Best if you just have a laptop)
@@ -34,6 +36,8 @@ If you don't see the launch screen, go to *file > open notebook*
 
 5. Run the code cell by pushing the play button to make sure everything works! If you're on Colab, it should!!
 
+---
+
 ### Installation Alternate: Download Notebooks from GitHub
 
 If the above methods don't work, you'll have to download the materials and either:
@@ -42,11 +46,15 @@ If the above methods don't work, you'll have to download the materials and eithe
 
 2. Install Anaconda & Jupyter Notebooks onto your personal computer (last resort! Or is you are behind a firewall)
 
+---
+
 #### Downloading Files From GitHub
 
 1. Scroll up to the top of this page
 
 2. In the top right corner, click on the green download icon and download repository as a zip.
+
+---
 
 ### Installation Alternate: Anaconda & Jupyter Notebook on Your Personal Computer
 
