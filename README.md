@@ -6,7 +6,7 @@ Presented By: Matthew Hall
 
 Currently, you're looking at a GitHub repository! Don't worry if you don't understand everything just yet, it can be intimidating!
 
-Before that, there's 2 learning methods that you might want to try out for the training:
+This file outlines a few things for our training: how to learn and how to install everything before we start!
 
 ---
 
