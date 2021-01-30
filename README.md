@@ -6,18 +6,21 @@ Presented By: Matthew Hall
 
 Currently, you're looking at a GitHub repository! Don't worry if you don't understand everything just yet, it can be intimidating!
 
-For the training, we're all going to use Google Colab! If you cannot access Google Colab because it is behind a firewall, don't fret. There's a few things you can do too.
-
 Before that, there's 2 learning methods that you might want to try out for the training:
 
 ### Learning Methods
 
 1. Sit Back & Watch, Trying to Absorb Content Being Covered (Best if you just have a laptop)
+
 2. Code Along! (Easier if you have multiple monitors)
 
 All the materials (and recording) will eventually be available, so it's really up to you!
 
+---
+
 ### Installation Instructions #1 (Recommended Method)
+
+For the training, we're all going to use Google Colab! If you cannot access Google Colab because it is behind a firewall, don't fret. There's a few things you can do too.
 
 1. Go to Google Colab in Your Browser (Chrome Recommended): colab.research.google.com
 
