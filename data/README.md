@@ -1,1 +1,3 @@
-In this folder are data sets for the second day of training!
+# Data!!!
+
+This folder contains the data sets we will need for the second day of our training.
